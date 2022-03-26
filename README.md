@@ -1,6 +1,6 @@
-## ABC-Blockchain-Programming-Course
+# ABC-Blockchain-Programming-Course
 
-# Vigenere Cipher - Vigenere.py
+## Vigenere Cipher - Vigenere.py
 The program is a basic implementation of the vigenere cipher.
 
 An alphabet is declared as a string of all letters in the english alphabet at the start of the program which determines the rank of each character. This rank is obtained by getting the index of the character in question on the 'alphabet' string.
